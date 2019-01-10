@@ -22,6 +22,7 @@ Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases
  - Users Pagina
  
  - Account Pagina's
+ https://user-images.githubusercontent.com/46563305/50993863-f6797a00-151a-11e9-9163-6dc7195cccf3.png
 
  ## 3. Features
 
