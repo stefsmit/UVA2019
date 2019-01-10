@@ -25,7 +25,7 @@ Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases
  ![Alt Text](https://user-images.githubusercontent.com/46563305/50993869-f7121080-151a-11e9-8d16-bc055f647401.png)
  - Users Pagina
  
- ![Alt Text](https://user-images.githubusercontent.com/46563305/50993872-f7121080-151a-11e9-9035-7f48e41c76e2.png)
+ ![wtf](https://user-images.githubusercontent.com/46563305/50993872-f7121080-151a-11e9-9035-7f48e41c76e2.png)
  - Account Pagina's
  
  Instellingen: ![Alt Text](https://user-images.githubusercontent.com/46563305/50993865-f6797a00-151a-11e9-94a3-5b20e2e26238.png)
