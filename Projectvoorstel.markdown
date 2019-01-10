@@ -12,7 +12,7 @@ Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases
  
 
  - Login Pagina
- ![schets](doc/Loginscherm)
+ ![schets](UVA2019/Loginscherm)
  - Registratie Pagina
  
  - Zoek Pagina
