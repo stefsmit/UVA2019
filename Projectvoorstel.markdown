@@ -12,19 +12,28 @@ Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases
  
 
  - Login Pagina
+ 
  ![Alt Text](https://user-images.githubusercontent.com/46563305/50993867-f6797a00-151a-11e9-9373-4f1c05da84d8.png)
  - Registratie Pagina
+ 
  ![Alt Text](https://user-images.githubusercontent.com/46563305/50993870-f7121080-151a-11e9-91cf-3ebd66b161ca.png)
  - Zoek Pagina
+ 
  ![Alt Text](https://user-images.githubusercontent.com/46563305/50993873-f7aaa700-151a-11e9-8af8-d0cbd6cd318e.png)
  - Overzicht Pagina
+ 
  ![Alt Text](https://user-images.githubusercontent.com/46563305/50993869-f7121080-151a-11e9-8d16-bc055f647401.png)
  - Users Pagina
+ 
  ![Alt Text](https://user-images.githubusercontent.com/46563305/50993872-f7121080-151a-11e9-9035-7f48e41c76e2.png)
  - Account Pagina's
+ 
  Instellingen: ![Alt Text](https://user-images.githubusercontent.com/46563305/50993865-f6797a00-151a-11e9-94a3-5b20e2e26238.png)
+ 
  Likes: ![Alt Text](https://user-images.githubusercontent.com/46563305/50993866-f6797a00-151a-11e9-87d5-428a922d17fe.png)
+ 
  Favorieten: ![Alt Text](https://user-images.githubusercontent.com/46563305/50993863-f6797a00-151a-11e9-9163-6dc7195cccf3.png)
+ 
  Gedeeld: ![Alt Text](https://user-images.githubusercontent.com/46563305/50993864-f6797a00-151a-11e9-9633-bf43d260868e.png)
  ## 3. Features
 
