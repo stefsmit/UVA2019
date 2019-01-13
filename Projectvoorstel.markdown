@@ -6,7 +6,7 @@
  5. Afhankelijkheden
 
 ##  1. Samenvatting
-Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases is "Collectioneur" met als thema "Auto's". Dit concept houdt in dat gebruikers op basis van diverse eigenschappen kunnen zoeken naar auto's die afkomstig zijn uit een online database. Gebruikers kunnen via ons website hun favoriete auto's opslaan en vervolgens delen met andere mensen. Ons website is bedoeld voor mensen die dol zijn op auto's en graag hun favoriete auto's willen delen met andere gebruikers. Daarnaast is ons website ook handig voor mensen die opzoek zijn naar een nieuwe auto. Deze gebruikers kunnen dankzij onze website zien welke auto's in de smaak vallen en kunnen daardoor inspiratie opdoen. 
+Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases is "Collectioneur" met als thema "Auto's". Het plan is om een website te maken voor mensen die graag een (naam merk) auto willen kopen. Onze site begeleidt ze daarin door informatie te geven van elke auto van het merk ... . Zo kun je bij elke auto de technische specificaties vinden, waar hij te koop is en reviews van andere mensen. Je kunt een account aanmaken voor de site om toegang te hebben tot het plaatsen en verwijderen van zelfgemaakte reviews. Ook kun je met een account een auto als favoriet selecteren, waardoor deze wordt opgeslagen en het gemakkelijk terug kunt vinden op je account. Je kunt daarnaast ook via het zoekmenu zoeken naar auto's en hierbij kun je filters toepassen.
 
  ## 2. Schetsen
  
