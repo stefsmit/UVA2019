@@ -45,22 +45,24 @@ Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases
  - Gebruikers moeten een account kunnen registreren
  - Gebruikers moeten auto's kunnen zoeken in de database en hierbij filters kunnen gebruiken
  - De zoekresultaten moeten gesorteerd kunnen worden
- - De auto's die verschijnen bij de zoekresultaten moeten 'Ge-liked', 'Ge-favoriet' en 'Gedeeld' kunnen worden.
- - In de 'overzicht' pagina moeten gebruikers de populairste auto's onder gebruikers kunnen zien (Gesorteerd op meeste ge-liked/ge-favoriet)
- - Gebruikers moeten andere gebruikers kunnen opzoeken en hun profiel kunnen bekijken. 
+ - De auto's die verschijnen bij de zoekresultaten moeten 'Ge-favoriet' en 'Gereviewed' kunnen worden (alleen met een account mogelijk, om te voorkomen dat er onbetrouwbare reviews komen).
+ - De reviews en favorieten van gebruikers zouden ook weer verwijderd kunnen worden.
+ - In de 'overzicht' pagina moeten gebruikers de populairste auto's onder gebruikers kunnen zien (Gesorteerd op meeste ge-favoriet)
+ - Gebruikers moeten andere gebruikers kunnen opzoeken en hun profiel kunnen bekijken (hierbij zullen ze de reviews en favorieten van deze persoon te zien krijgen). 
  - Gebruikers moeten hun accountinstellingen kunnen zien en wijzigen
- - Gebruikers moeten hun Likes kunnen zien
- - Gebruikers moeten hun favorieten kunnen zien
- - Gebruikers moeten de auto's die zijn 'Gedeeld door mij' en 'Gedeeld met mij' kunnen zien.
+ - Gebruikers moeten hun reviews kunnen zien
+ - Gebruikers moeten hun favorieten kunnen zien (als je een auto hebt gevonden die je graag zou willen kopen is het handig om hem makkelijk op een vaste plek terug te vinden).
+ - Bij elke auto zou er informatie gegeven moeten worden, waaronder de reviews die betrekking hebben op deze auto (anders is de site niet nuttig om te gebruiken).
 
  ## 4. Minimum viable product
 De combinatie van features die benodigd zijn voor het minimum viable product zijn als volgt:
  - Gebruikers moeten kunnen inloggen
  - Gebruikers moeten een account kunnen registreren
  - Gebruikers moeten auto's kunnen zoeken in de database 
- - De auto's die verschijnen bij de zoekresultaten moeten 'Ge-liked' kunnen worden.
- - In de 'overzicht' pagina moeten gebruikers de populairste auto's onder gebruikers kunnen zien (Gesorteerd op meeste ge-liked)
- - Gebruikers moeten hun Likes kunnen zien
+ - De auto's die verschijnen bij de zoekresultaten moeten 'Ge-reviewed' kunnen worden (een review zal bestaan uit het geven van een aantal sterren waarbij nog opmerkingen geplaatst kunnen worden).
+ - In de 'overzicht' pagina moeten gebruikers de populairste auto's onder gebruikers kunnen zien (Gesorteerd op meeste ge-favoriet)
+ - Gebruikers moeten hun reviews en favorieten kunnen zien
+ - Bij elke auto zou er informatie gegeven moeten worden, waaronder de reviews die betrekking hebben op deze auto (anders is de site niet nuttig om te gebruiken). 
 
 
  ## 5. Afhankelijkheden
