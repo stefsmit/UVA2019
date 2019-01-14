@@ -6,7 +6,7 @@
  5. Afhankelijkheden
 
 ##  1. Samenvatting
-Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases is "Collectioneur" met als thema "Auto's". Het plan is om een website te maken voor mensen die graag een (naam merk) auto willen kopen. Onze site begeleidt ze daarin door informatie te geven van elke auto van het merk ... . Zo kun je bij elke auto de technische specificaties vinden, waar hij te koop is en reviews van andere mensen. Je kunt een account aanmaken voor de site om toegang te hebben tot het plaatsen en verwijderen van zelfgemaakte reviews. Ook kun je met een account een auto als favoriet selecteren, waardoor deze wordt opgeslagen en het gemakkelijk terug kunt vinden op je account. Je kunt daarnaast ook via het zoekmenu zoeken naar auto's en hierbij kun je filters toepassen.
+Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases is "Collectioneur" met als thema "Auto's". Het plan is om een website te maken voor mensen die graag een BMW auto willen kopen. Onze site begeleidt ze daarin door informatie te geven van elke auto van het merk BMW. Zo kun je bij elke auto de technische specificaties vinden, waar hij te koop is en reviews van andere mensen. Je kunt een account aanmaken voor de site om toegang te hebben tot het plaatsen en verwijderen van zelfgemaakte reviews. Ook kun je met een account een auto als favoriet selecteren, waardoor deze wordt opgeslagen en het gemakkelijk terug kunt vinden op je account. Je kunt daarnaast ook via het zoekmenu zoeken naar auto's en hierbij kun je filters toepassen.
 
  ## 2. Schetsen
  
@@ -47,11 +47,12 @@ Het concept dat wij hebben gekozen voor het project Webprogrammeren en Databases
  - De zoekresultaten moeten gesorteerd kunnen worden
  - De auto's die verschijnen bij de zoekresultaten moeten 'Ge-favoriet' en 'Gereviewed' kunnen worden (alleen met een account mogelijk, om te voorkomen dat er onbetrouwbare reviews komen).
  - De reviews en favorieten van gebruikers zouden ook weer verwijderd kunnen worden.
- - In de 'overzicht' pagina moeten gebruikers de populairste auto's onder gebruikers kunnen zien (Gesorteerd op meeste ge-favoriet)
- - Gebruikers moeten andere gebruikers kunnen opzoeken en hun profiel kunnen bekijken (hierbij zullen ze de reviews en favorieten van deze persoon te zien krijgen). 
- - Gebruikers moeten hun accountinstellingen kunnen zien en wijzigen
+ - Gebruikers moeten hoogst beoordeelde auto's kunnen zien
+ - Gebruikers moeten recente reviews kunnen bekijken
+ - Gebruikers moeten naar hun profiel kunnen gaan.
  - Gebruikers moeten hun reviews kunnen zien
  - Gebruikers moeten hun favorieten kunnen zien (als je een auto hebt gevonden die je graag zou willen kopen is het handig om hem makkelijk op een vaste plek terug te vinden).
+ - Gebruikers moeten andere gebruikers kunnen opzoeken en hun profiel kunnen bekijken (hierbij zullen ze de reviews van deze persoon te zien krijgen.)
  - Bij elke auto zou er informatie gegeven moeten worden, waaronder de reviews die betrekking hebben op deze auto (anders is de site niet nuttig om te gebruiken).
 
  ## 4. Minimum viable product
@@ -60,7 +61,7 @@ De combinatie van features die benodigd zijn voor het minimum viable product zij
  - Gebruikers moeten een account kunnen registreren
  - Gebruikers moeten auto's kunnen zoeken in de database 
  - De auto's die verschijnen bij de zoekresultaten moeten 'Ge-reviewed' kunnen worden (een review zal bestaan uit het geven van een aantal sterren waarbij nog opmerkingen geplaatst kunnen worden).
- - In de 'overzicht' pagina moeten gebruikers de populairste auto's onder gebruikers kunnen zien (Gesorteerd op meeste ge-favoriet)
+ - Op de homepage moeten gebruikers de hoogste beoordeelde auto's en recente reviews kunnen zien. 
  - Gebruikers moeten hun reviews en favorieten kunnen zien
  - Bij elke auto zou er informatie gegeven moeten worden, waaronder de reviews die betrekking hebben op deze auto (anders is de site niet nuttig om te gebruiken). 
 
