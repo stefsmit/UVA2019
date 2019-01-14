@@ -6,7 +6,6 @@
 - Meldingpagina
 - Favorietpagina
 
-
 # Functies
 - Zoeken
 - Inloggen
@@ -17,3 +16,7 @@
 - Notificaties
 - Favorieten
 
+# Models/Helpers
+- search()
+- placereview()
+- deletereview()
