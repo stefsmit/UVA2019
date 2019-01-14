@@ -16,6 +16,9 @@
 - Notificaties
 - Favorieten
 
+# Views
+-
+
 # Models/Helpers
 - search()
 - placereview()
