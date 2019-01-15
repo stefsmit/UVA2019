@@ -76,3 +76,6 @@ On this page users are able to create a new account.
 - login()
 - register()
 - logout()
+
+# Plugins/Framework
+- Bootstrap: https://getbootstrap.com/
