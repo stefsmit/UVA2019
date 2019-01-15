@@ -43,12 +43,12 @@ On this page users are able to create a new account.
 
 # Views
 
-<img src="https://github.com/sebastiaantl/UVA2019/blob/master/car%20page.jpg" width="400"></img>
-<img src="https://github.com/sebastiaantl/UVA2019/blob/master/favourites%20page.jpg" width="400"></img>
-<img src="https://github.com/sebastiaantl/UVA2019/blob/master/homepage.jpg" width="400"></img>
-<img src="https://github.com/sebastiaantl/UVA2019/blob/master/profile%20page.jpg" width="400"></img>
-<img src="https://github.com/sebastiaantl/UVA2019/blob/master/registration%20page.jpg" width="400"></img>
-<img src="https://github.com/sebastiaantl/UVA2019/blob/master/searchresults.jpg" width="400"></img>
+<img src="https://github.com/sebastiaantl/UVA2019/blob/master/car%20page.jpg" width="400"></img><br>
+<img src="https://github.com/sebastiaantl/UVA2019/blob/master/favourites%20page.jpg" width="400"></img><br>
+<img src="https://github.com/sebastiaantl/UVA2019/blob/master/homepage.jpg" width="400"></img><br>
+<img src="https://github.com/sebastiaantl/UVA2019/blob/master/profile%20page.jpg" width="400"></img><br>
+<img src="https://github.com/sebastiaantl/UVA2019/blob/master/registration%20page.jpg" width="400"></img><br>
+<img src="https://github.com/sebastiaantl/UVA2019/blob/master/searchresults.jpg" width="400"></img><br>
 
 # Models/Helpers
 - search()
