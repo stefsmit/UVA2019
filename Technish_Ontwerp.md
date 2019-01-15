@@ -12,7 +12,7 @@
 
 **Homepage**
 <br>
-Users have to be able to search for cars, no matter if they are logged in or not. When doing so, they will be redirected to the Search Result Page, where results will be shown for the search query. Now they can filter the results by filling in the filter parameters they would like to apply. Furthermore the homepage will display the highest rated cars by our members and it will suggest cars you may like and show recent reviews made by users.
+Users have to be able to search for cars, no matter if they are logged in or not. When doing so, they will be redirected to the Search Result Page, where results will be shown for the search query. Now they can filter the results by filling in the filter parameters they would like to apply. Furthermore the hompage will display the highest rated cars by our members, suggests cars you may like and show recent reviews made by users.
 
 **Search Results page**
 <br>
@@ -20,7 +20,7 @@ After a search query has been submitted, the user will be redirected to this pag
 
 **Profile Page**
 <br>
-On the profile page users will see their own name, liked cars and reviews they have submitted. This page must be accessible to everyone, users are not required to be logged in to be able to see other people's profile.
+On the profile page users will see their own name, liked cars and reviews they have submitted. This page must be accesable to everyone, users are not required to be logged in to be able to see other people's profile.
 
 **Car Page**
 <br>
@@ -76,6 +76,3 @@ On this page users are able to create a new account.
 - login()
 - register()
 - logout()
-
-# Plugins/Framework
-- Bootstrap: https://getbootstrap.com/
