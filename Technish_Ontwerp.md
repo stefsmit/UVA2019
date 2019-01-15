@@ -6,8 +6,8 @@
 - Search Results page
 - Profile page
 - Car page
-- Notifications page
 - Favorites page
+- Register page
 
 
 **Homepage**
