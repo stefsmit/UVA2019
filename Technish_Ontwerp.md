@@ -42,7 +42,7 @@ On this page users are able to create a new account.
 - Favorite
 
 # Views
-![](test.png)
+![](https://github.com/sebastiaantl/UVA2019/blob/master/car%20page.jpg)
 
 # Models/Helpers
 - search()
