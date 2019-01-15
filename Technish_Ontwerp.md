@@ -24,11 +24,15 @@ On the profile page users will see their own name, liked cars and reviews they h
 
 **Car Page**
 <br>
-After you have filtered you search query on the Search Results page, users can click on cars they want to get more details about and will be redirected to a unique page per car. Every page will show one car, with it's specifications.
+After you have filtered you search query on the Search Results page, users can click on cars they want to get more details about and will be redirected to a unique page per car. Every page will show one car, with it's specifications and the reviews of the car.
 
 **Favorites Page**
 <br>
 On this page logged in users can see the cars they have added to their favorite car selection.
+
+**Register page**
+<br>
+On this page users are able to create a new account. 
 
 # Functions
 - Search
@@ -38,7 +42,7 @@ On this page logged in users can see the cars they have added to their favorite 
 - Favorite
 
 # Views
--
+![](test.png)
 
 # Models/Helpers
 - search()
