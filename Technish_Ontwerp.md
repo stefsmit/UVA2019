@@ -43,11 +43,22 @@ On this page users are able to create a new account.
 
 # Views
 
+**Car page**
 <img src="https://github.com/sebastiaantl/UVA2019/blob/master/car%20page.jpg" width="400"></img><br>
+
+**Favorite page**
 <img src="https://github.com/sebastiaantl/UVA2019/blob/master/favourites%20page.jpg" width="400"></img><br>
+
+**Homepage**
 <img src="https://github.com/sebastiaantl/UVA2019/blob/master/homepage.jpg" width="400"></img><br>
+
+**Profile page**
 <img src="https://github.com/sebastiaantl/UVA2019/blob/master/profile%20page.jpg" width="400"></img><br>
+
+**Register page**
 <img src="https://github.com/sebastiaantl/UVA2019/blob/master/registration%20page.jpg" width="400"></img><br>
+
+**Search Results page**
 <img src="https://github.com/sebastiaantl/UVA2019/blob/master/searchresults.jpg" width="400"></img><br>
 
 # Models/Helpers
