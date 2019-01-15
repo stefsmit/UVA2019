@@ -35,7 +35,6 @@ On this page logged in users can see the cars they have added to their favorite 
 - Login
 - Register 
 - Review
-- Like
 - Favorite
 
 # Views
@@ -47,8 +46,7 @@ On this page logged in users can see the cars they have added to their favorite 
 - deletereview()
 - favorite()
 - unfavorite()
-- like()
-- unlike()
+- calcmean()
 - login()
 - register()
 - logout()
