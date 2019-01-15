@@ -26,10 +26,6 @@ On the profile page users will see their own name, liked cars and reviews they h
 <br>
 After you have filtered you search query on the Search Results page, users can click on cars they want to get more details about and will be redirected to a unique page per car. Every page will show one car, with it's specifications.
 
-**Notification Page**
-<br>
-Logged in users will be able to set notifications on specific cars. When a new review is submitted of a car of which the user has put a notification on, the user will be notified on this page and can read the review.
-
 **Favorites Page**
 <br>
 On this page logged in users can see the cars they have added to their favorite car selection.
@@ -40,7 +36,6 @@ On this page logged in users can see the cars they have added to their favorite 
 - Register 
 - Review
 - Like
-- Notify
 - Favorite
 
 # Views
@@ -50,3 +45,10 @@ On this page logged in users can see the cars they have added to their favorite 
 - search()
 - placereview()
 - deletereview()
+- favorite()
+- unfavorite()
+- like()
+- unlike()
+- login()
+- register()
+- logout()
